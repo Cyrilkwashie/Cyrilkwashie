@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyrilkwashie
+- 👋 Hi, I’m @Cyril Kwashie
 - 👀 I’m interested in frontend development and blockchain development
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on ...
