@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyril Kwashie
 - 👀 I’m interested in frontend development 
-- 🌱 I’m currently React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cyrilkwashie25@gmail.com
 - 😄 Pronouns: He
