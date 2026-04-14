@@ -76,11 +76,11 @@ GitHub: github.com/CyrilKwashie
 
 
 
-Twitter/X: @CyrilKwashie (Update with your actual handle if applicable)
+Twitter/X: @CyrilKwashie 
 
 
 
-Portfolio: your-portfolio.com (Add your portfolio link when available)
+Portfolio: your-portfolio.com 
 
 🤝 How to Collaborate
 
